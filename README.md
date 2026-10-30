@@ -1,58 +1,55 @@
-# ☕ [o 🚀] Guía APE: Programación Orientada a Objetos (POO)
+<div align="center">
+
+# ⚡ GUÍA APE: PROGRAMACIÓN ORIENTADA A OBJETOS ⚡
+
+[![Status](https://img.shields.io/badge/STATUS-EN_MOVIMIENTO-success?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/)
+[![Language](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Academic](https://img.shields.io/badge/UTA-FICA-blue?style=for-the-badge)](https://uta.edu.ec/)
+
+> *Modelando el mundo real a través del código, un objeto a la vez.* 🚀
+
+---
+
+</div>
+
+## 🎯 ¿De qué va esto?
+
+¡Bienvenido al repositorio oficial de mis **Prácticas Experimentales (APE)**! Aquí encontrarás la implementación pura y dura de la **Programación Orientada a Objetos (POO)** en Java. Nada de código espagueti: pura lógica estructurada, limpia y modular. 🔥
+
+---
+
+## 🧩 Ejercicios en Acción
+
+| # | Ejercicio / Caso | Concepto Clave | Estado |
+|---|---|---|---|
+| 01 | **[Nombre Ejercicio 1]** | Clases, Objetos y Atributos | 🟢 Completado |
+| 02 | **[Nombre Ejercicio 2]** | Encapsulamiento & Getters/Setters | 🟢 Completado |
+| 03 | **[Nombre Ejercicio 3]** | Herencia y Reutilización | 🟢 Completado |
+| 04 | **[Nombre Ejercicio 4]** | Polimorfismo Dinámico | 🟢 Completado |
+
+---
+
+## 🛠️ Stack Tecnológico & Herramientas
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/Status-Completado-success?style=for-the-badge&logo=none)]()
-[![Language](https://img.shields.io/badge/Language-Java-blue?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![Academic](https://img.shields.io/badge/Práctica-Experimental-orange?style=for-the-badge)]()
-
-*Repositorio oficial con la resolución de ejercicios prácticos orientados a objetos, aplicando buenas prácticas y los pilares de la POO.*
+| Herramienta | Propósito | Nivel de Dominio |
+| :---: | :---: | :---: |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | **Lenguaje Principal** | ![Progress](https://img.shields.io/badge/██████████-100%25-brightgreen) |
+| ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | **Editor de Código** | ![Progress](https://img.shields.io/badge/██████████-100%25-brightgreen) |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | **Control de Versiones** | ![Progress](https://img.shields.io/badge/██████████-85%25-orange) |
 
 </div>
 
 ---
 
-## 📌 Tabla de Contenidos
-- [Descripción de la Guía](#-descripción-de-la-guía)
-- [Ejercicios / Casos de Estudio](#-ejercicios--casos-de-estudio)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Principios Aplicados](#-principios-aplicados)
-- [Instalación y Ejecución](#-instalación-y-ejecución)
-- [Autor](#-autor)
-
----
-
-## 📖 Descripción de la Guía
-
-Este repositorio contiene el desarrollo de la **Práctica Experimental (APE)** enfocada en el paradigma de **Programación Orientada a Objetos (POO)**. El objetivo principal es modelar problemas del mundo real mediante la creación de clases, gestión de atributos/métodos, y la implementación de relaciones entre objetos.
-
----
-
-## 🧩 Ejercicios / Casos de Estudio
-
-Cada ejercicio se encuentra modularizado en su respectivo paquete o directorio:
-
-| # | Ejercicio / Problema | Descripción breve | Concepto Clave |
-|---|---|---|---|
-| 01 | **[Nombre del Ejercicio 1]** | Modelado de entidades y gestión de atributos. | Clases y Objetos |
-| 02 | **[Nombre del Ejercicio 2]** | Implementación de constructores y métodos de acceso. | Encapsulamiento |
-| 03 | **[Nombre del Ejercicio 3]** | Creación de jerarquías de clases y reutilización de código. | Herencia |
-| 04 | **[Nombre del Ejercicio 4]** | Sobrescritura de métodos y comportamiento dinámico. | Polimorfismo |
-
----
-
-## 📂 Estructura del Proyecto
+## 📂 Organización del Directorio
 
 ```text
-[Nombre-del-Repositorio]/
-│
-├── ejercicio01/          # Paquete del primer ejercicio
-│   ├── Main.java         # Clase ejecutable
-│   └── Persona.java      # Clase modelo
-│
-├── ejercicio02/          # Paquete del segundo ejercicio
-│   ├── Main.java
-│   ├── Vehiculo.java
-│   └── Auto.java         # Ejemplo de herencia
-│
-└── README.md             # Documentación principal
+📦 Guia-APE-POO/
+ ┣ 📂 ejercicio01/
+ ┃ ┣ 📜 Main.java
+ ┃ ┗ 📜 [ClaseModelo].java
+ ┣ 📂 ejercicio02/
+ ┃ ┗ 📜 ...
+ ┗ 📜 README.md
